@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Resturant_Day_Time.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Wilderness_Night_Time.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Start_Menu.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/_GENERATED/allde/Box_5073A1D0.uasset",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/UI/Startmenu.uasset",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Nate_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Matthew_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Aarush_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Nate_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Matthew_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Aarush_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Sub-Levels/Aarush_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Sub-Levels/Matthew_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Sub-Levels/Nate_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Aarush_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Matthew_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Nate_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Start/Aarush_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Start/Nate_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Start/Matthew_SM.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Nate_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Matthew_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Aarush_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Nate_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Matthew_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Aarush_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Nate_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Matthew_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Aarush_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Night/Aarush_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Night/Matthew_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Night/Nate_NT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Nate_DT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Matthew_DT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Aarush_DT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Day/Aarush_DT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Day/Matthew_DT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Day/Nate_DT.umap",
+				"C:/Users/allde/OneDrive/Documents/Unreal Projects/Galaxy_Burger/Content/Levels/Sub-Levels/Day/_GENERATED/allde/Cone_E6458DE7.uasset"
+			]
+		}
+	]
+}
